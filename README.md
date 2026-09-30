@@ -24,9 +24,8 @@ This project analyzes e-commerce sales data to identify:
 ## Python/Pandas Analysis
 - Data cleaning
 - Seasonal sales trends
-- Customer segmentation
 - ARPU & CLV analysis
-- Geographic sales analysis
+
 
 ## Power BI Dashboard
 - KPI cards
